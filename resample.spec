@@ -7,6 +7,7 @@ Group:          Sound
 URL:		http://ccrma.stanford.edu/~jos/resample/
 Source0:	http://ccrma.stanford.edu/~jos/resample/%{name}-%{version}.tar.gz
 BuildRequires:	libtool
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 The resample software package contains free sampling-rate conversion and filter
