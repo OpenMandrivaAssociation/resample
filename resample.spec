@@ -1,7 +1,7 @@
 Summary:	Sampling-rate conversion program
 Name:		resample
 Version:	1.8.1
-Release:	5
+Release:	6
 License:	LGPL
 Group:		Sound
 URL:		http://ccrma.stanford.edu/~jos/resample/
