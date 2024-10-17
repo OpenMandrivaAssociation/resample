@@ -4,7 +4,7 @@ Version:	1.8.1
 Release:	6
 License:	LGPL
 Group:		Sound
-URL:		http://ccrma.stanford.edu/~jos/resample/
+URL:		https://ccrma.stanford.edu/~jos/resample/
 Source0:	http://ccrma.stanford.edu/~jos/resample/%{name}-%{version}.tar.gz
 Patch0:		resample-1.8.1-string-fmt.patch
 BuildRequires:	libtool
