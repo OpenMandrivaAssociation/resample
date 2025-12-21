@@ -7,6 +7,11 @@ Group:		Sound
 URL:		https://ccrma.stanford.edu/~jos/resample/
 Source0:	http://ccrma.stanford.edu/~jos/resample/%{name}-%{version}.tar.gz
 Patch0:		resample-1.8.1-string-fmt.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libtool
 
 %description
